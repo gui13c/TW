@@ -3,6 +3,7 @@
 // @version      8.0
 // @description  Lógica Sanji Corrigida + Leitura Real de Capacidade + UI GODiNjURED
 // @author       iNjURED
+// @icon         https://i.pinimg.com/originals/34/6a/c6/346ac610a5ad0a369ec72e410607330b.gif
 // @include      https://pt*.tribalwars.com.pt/*mode=scavenge*
 // @grant        unsafeWindow
 // @grant        GM_addStyle
